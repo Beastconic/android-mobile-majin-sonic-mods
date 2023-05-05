@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"your demise",
+			"monika-angrynew",
+			[
+				201,
+				206,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"freeplayColor": [
+		201,
+		206,
+		255
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"weekName": "yo",
+	"startUnlocked": true
+}
